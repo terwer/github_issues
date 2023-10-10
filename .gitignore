@@ -1,0 +1,5 @@
+venv
+token.txt
+issues.md
+.idea
+__pycache__
